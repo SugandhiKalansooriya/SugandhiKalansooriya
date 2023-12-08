@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Sugandhi Hansika Kalansooriya</h1>
